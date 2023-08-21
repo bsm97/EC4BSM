@@ -1,1 +1,5 @@
 # EC4BSM
+
+
+
+USE VSCODE PARA EJECUTARLO LOCALMENTE EL SCRIPT "node run wp" esta para windows
